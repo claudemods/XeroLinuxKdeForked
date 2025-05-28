@@ -16,7 +16,7 @@ stage 2
 
 stage 3 coming!!!
 
-will be a ext4 iso with an installer
+will be a uefi ext4 iso with an installer
 
 ![Screenshot_archlinux-clone_2025-05-28_08:44:27](https://github.com/user-attachments/assets/fe64421a-f792-40db-b50f-e31bb5837bbf)
 
