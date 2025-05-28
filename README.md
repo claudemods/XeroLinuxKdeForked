@@ -12,6 +12,11 @@ https://ko-fi.com/claudemods
 download for free my uefi ext4 custom iso from https://sourceforge.net/projects/claudemods/files/claudemods-Distributions/XeroLinux-KdeForked/Kde-UefiExt4/
 
 
-i will also soon provide a uefi btrfs .img.xz which will be better for those who hate paying for open source things 
+
 
 ![Screenshot_archlinux-clone_2025-05-28_08:44:27](https://github.com/user-attachments/assets/83ce087e-097d-4744-90a6-ad2b82978bda)
+
+
+i will also soon provide a uefi btrfs .img.xz which will be better for those who hate paying for open source things  just cloning it now
+
+![Screenshot_archlinux-clone_2025-05-28_12:54:05](https://github.com/user-attachments/assets/37c1235d-aa96-4463-b299-b5b2a83bedf0)
