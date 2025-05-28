@@ -1,6 +1,6 @@
 # XeroLinuxKdeForked
 
-the isos and .img.xz will always be free but small donations or sponsors are accepted 
+the iso's and .img.xz's created with my tools will always be free but small donations or sponsors are accepted 
 
 https://www.claudemods.co.uk/support-me
 
