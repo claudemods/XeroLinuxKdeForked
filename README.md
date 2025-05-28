@@ -1,6 +1,10 @@
 # XeroLinuxKdeForked
 
-money is the route of evil so im making an iso of xerolinux for free
+the isos and .img.xz will be free but small donations or sponsors are accepted 
+
+https://www.claudemods.co.uk/support-me
+
+https://www.paypal.com/paypalme/claudemods?country.x=GB&locale
 
 
 stage 1
