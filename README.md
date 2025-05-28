@@ -1,2 +1,20 @@
 # XeroLinuxKdeForked
+
 money is the route of evil so im making an iso of xerolinux for free
+
+
+stage 1
+
+![Screenshot_archlinux-clone_2025-05-28_08:03:46](https://github.com/user-attachments/assets/d661343b-bf2e-4f22-af34-e12282f76075)
+
+stage 2 
+
+![Screenshot_20250528_080601](https://github.com/user-attachments/assets/00836ef2-57b3-476c-bd45-49bdf85fd458)
+
+stage 3 
+
+will be a ext4 iso with an installer
+
+stage 4 will be a btrfs iso with a installer
+
+and i will also provide a btrfs .img.xz for those who hate paying for open source things 
