@@ -6,6 +6,7 @@ https://www.claudemods.co.uk/support-me
 
 https://www.paypal.com/paypalme/claudemods?country.x=GB&locale
 
+https://ko-fi.com/claudemods
 
 stage 1
 
