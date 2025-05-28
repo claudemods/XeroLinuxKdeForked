@@ -11,9 +11,18 @@ stage 2
 
 ![Screenshot_20250528_080601](https://github.com/user-attachments/assets/00836ef2-57b3-476c-bd45-49bdf85fd458)
 
-stage 3 
+
+
+
+stage 3 coming!!!
 
 will be a ext4 iso with an installer
+
+![Screenshot_archlinux-clone_2025-05-28_08:44:27](https://github.com/user-attachments/assets/fe64421a-f792-40db-b50f-e31bb5837bbf)
+
+
+
+
 
 stage 4 will be a btrfs iso with a installer
 
