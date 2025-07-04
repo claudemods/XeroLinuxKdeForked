@@ -15,7 +15,7 @@ https://ko-fi.com/claudemods
 ##  [All Iso's Created With Apex Iso Creator](https://github.com/claudemods/ApexArchIsoCreatorGuiAppImage)
 
 
-download for free my uefi btrfs custom .img from https://drive.google.com/drive/folders/1bs3GXEMitfzbJ7rM7eP-Q3PHEc30L7g_
+### new compressed btrfs .img coming to dd to your hdd/ssd
 
 
 
